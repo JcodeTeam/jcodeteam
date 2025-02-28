@@ -6,7 +6,7 @@ I'm a passionate developer focusing on **MERN Stack**, and **Laravel**.
 - 🔭 Currently working on exciting web projects
 - 🌱 Learning **Vue.js** and **MongoDB in Node.js**
 - 💬 Ask me about web development and open-source
-- 📫 Reach me at [your-email@example.com](mailto:pujamasjoo@gmail.com)
+- 📫 Reach me at [pujamasjoo@gmail.com](mailto:pujamasjoo@gmail.com)
 
 ## 🛠️ Tech Stack
 
