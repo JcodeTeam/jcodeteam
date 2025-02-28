@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm JCodeTeam
+# Hi there! 👋 I'm Johan Amru
 
 ## 🚀 About Me
 I'm a passionate developer focusing on **MERN Stack**, and **Laravel**.
