@@ -23,8 +23,7 @@ I'm a passionate developer focusing on **MERN Stack**, and **Laravel**.
 
 ## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrsdev&layout=compact)
-![JCodeTeam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCodeTeam&show_icons=true&theme=radical) 
+![JCodeTeam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCodeTeam&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrsdev&layout=compact)
 
 ![GitHub Snake](https://raw.githubusercontent.com/syrsdev/syrsdev/output/github-snake.svg)
 
