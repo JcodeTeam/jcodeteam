@@ -28,7 +28,7 @@ I'm a passionate developer focusing on **MERN Stack**, and **Laravel**.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syrsdev&show_icons=true&count_private=true)
 
-![GitHub Snake](https://raw.githubusercontent.com/syrsdev/syrsdev/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/jcodeteam/jcodeteam/output/github-snake.svg)
 
 ## 🔗 Connect with Me
 
