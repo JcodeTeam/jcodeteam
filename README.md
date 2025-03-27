@@ -25,6 +25,8 @@ I'm a passionate developer focusing on **MERN Stack**, and **Laravel**.
 
 ![JCodeTeam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCodeTeam&show_icons=true&theme=radical)
 
+![GitHub Snake](https://raw.githubusercontent.com/syrsdev/syrsdev/output/github-snake.svg)
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-rizki-johan-amru-a89754353)
